@@ -1,2 +1,2 @@
 # L2Z-YTH
-Running Snail.
+Running Snail writes a letter to himself. 
